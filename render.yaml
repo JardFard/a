@@ -1,5 +1,6 @@
 services:
-  type: web
+  
+type: web
   name: SP 2
   runtime: node
   plan: free
