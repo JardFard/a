@@ -1,7 +1,7 @@
 services:
   
 type: web
-  name: SP 2
+  name: "SP 2"
   runtime: node
   plan: free
   buildCommand: npm install
