@@ -1,8 +1,0 @@
-services:
-  type: web
-  name: SP 2
-  runtime: node
-  plan: free
-  buildCommand: npm install
-  startCommand: npm start
-  healthCheckPath: /health
